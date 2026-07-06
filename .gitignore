@@ -1,1 +1,17 @@
 /target
+
+# Binary files
+*.exe
+*.pdb
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
